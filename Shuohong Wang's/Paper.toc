@@ -1,0 +1,33 @@
+\contentsline {section}{\numberline {1}绪论}{1}{section.1}
+\contentsline {subsection}{\numberline {1.1}研究背景}{1}{subsection.1.1}
+\contentsline {subsubsection}{\numberline {1.1.1}三维运动轨迹测量}{1}{subsubsection.1.1.1}
+\contentsline {subsubsection}{\numberline {1.1.2}动物群体行为分析与建模}{2}{subsubsection.1.1.2}
+\contentsline {subsection}{\numberline {1.2}群体三维运动研究方法综述}{2}{subsection.1.2}
+\contentsline {subsubsection}{\numberline {1.2.1}GPS测量三维轨迹}{3}{subsubsection.1.2.1}
+\contentsline {subsubsection}{\numberline {1.2.2}多摄像机测量三维轨迹}{4}{subsubsection.1.2.2}
+\contentsline {subsection}{\numberline {1.3}课题目的及意义}{7}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}本文的组织结构}{7}{subsection.1.4}
+\contentsline {section}{\numberline {2}相关方法综述}{9}{section.2}
+\contentsline {subsection}{\numberline {2.1}多相机摄影测量平台}{9}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}相机标定}{9}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}目标检测}{10}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}多目标跟踪}{12}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}立体匹配}{15}{subsection.2.5}
+\contentsline {section}{\numberline {3}果蝇群体三维轨迹跟踪测量}{17}{section.3}
+\contentsline {subsection}{\numberline {3.1}引言}{17}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}果蝇三维轨迹跟踪的实现}{18}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}目标检测}{18}{subsubsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2}两维单视图目标跟踪}{18}{subsubsection.3.2.2}
+\contentsline {subsubsection}{\numberline {3.2.3}立体匹配}{23}{subsubsection.3.2.3}
+\contentsline {subsubsection}{\numberline {3.2.4}三维轨迹重建与重连接}{25}{subsubsection.3.2.4}
+\contentsline {subsection}{\numberline {3.3}线性分配问题的算法实现}{27}{subsection.3.3}
+\contentsline {section}{\numberline {4}实验结果与评估}{30}{section.4}
+\contentsline {subsection}{\numberline {4.1}相机标定}{31}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}目标检测}{31}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}二维单视图多目标跟踪结果}{32}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}立体匹配 \& 三维轨迹重建与重连接}{32}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}评估分析}{32}{subsection.4.5}
+\contentsline {section}{\numberline {5}总结与展望}{34}{section.5}
+\contentsline {section}{\vspace {6pt}\fontsize {14pt}{21pt}\selectfont \CJKfamily {hei}参考文献}{37}{section*.1}
+\contentsline {section}{\fontsize {14pt}{21pt}\selectfont \CJKfamily {hei}致谢}{37}{section*.2}
+\contentsfinish 
